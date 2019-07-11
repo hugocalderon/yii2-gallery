@@ -97,6 +97,9 @@
     background-color: #eef; }
 #gallery-modal .preloader{
     height:20px}
+#gallery-modal .preloader-hide{
+    display: none;
+}	
 .modal-footer {
     padding: 11px 16px !important;
 }
